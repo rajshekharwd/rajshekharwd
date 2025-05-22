@@ -1,18 +1,18 @@
 # 💫 Hi 👋, I'm Rajshekhar Singh
-**A passionate Software Engineer || DevOps Engineer || Kafka Admin from India**
 
-Email Me 👉 ✉️ **rajshekharwd@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+A passionate Frontend Web Developer from India 🇮🇳
+📧 Email Me 👉 ✉️ rajshekharwd@gmail.com for Collaboration, Projects, or Anything Else. 😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+🔭 I’m currently working on: Building responsive and scalable web apps using Angular, React.js, and Next.js
+🌱 I’m currently learning: Vue 3 Composition API, GraphQL, and Advanced Performance Optimization
+👯 I’m looking to collaborate on: Open-source frontend libraries, UI kits, or real-world web application projects
+🤔 I’m looking for help with: Contributions to complex React or Angular design patterns
+💬 Ask me about: Frontend development, Component architecture, and UI performance best practices
+📫 How to reach me: rajshekharwd@gmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: I speak fluent code and enjoy turning designs into pixel-perfect interfaces
+🔗 I am a Web Developer specialized in Angular, React, Vue.js, Next.js, HTML5, and CSS3
 
-## 🔗 I am a Web Developer. 😊😊
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rajshekharwd&theme=radical&no-frame=false&no-bg=true&margin-w=4)
